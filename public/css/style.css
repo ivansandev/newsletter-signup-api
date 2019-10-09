@@ -14,8 +14,10 @@ body {
 
 .form-signin {
   width: 100%;
-  max-width: 330px;
-  padding: 15px;
+  border-radius: 16px;
+  box-shadow: 0 0 50px rgba(24, 24, 31, 0.301);
+  max-width: 380px;
+  padding: 40px 50px;
   margin: auto;
 }
 
@@ -51,22 +53,3 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-
-.astra-img {
-  border-radius: 50%;
-}
-
-/* .bd-placeholder-img {
-   font-size: 1.125rem;
-   text-anchor: middle;
-   -webkit-user-select: none;
-   -moz-user-select: none;
-   -ms-user-select: none;
-   user-select: none;
-}
-
-@media (min-width: 768px) {
-   .bd-placeholder-img-lg {
-      font-size: 3.5rem;
-   }
-} */
